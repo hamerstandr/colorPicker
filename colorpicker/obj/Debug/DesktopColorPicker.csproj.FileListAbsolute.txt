@@ -1,0 +1,13 @@
+C:\Documents\Project\colorpicker\bin\Debug\DesktopColorPicker.exe
+C:\Documents\Project\colorpicker\bin\Debug\DesktopColorPicker.pdb
+C:\Documents\Project\colorpicker\obj\Debug\DesktopColorPicker.csprojAssemblyReference.cache
+C:\Documents\Project\colorpicker\obj\Debug\DesktopColorPicker.GUI.resources
+C:\Documents\Project\colorpicker\obj\Debug\DesktopColorPicker.Properties.Resources.resources
+C:\Documents\Project\colorpicker\obj\Debug\DesktopColorPicker.csproj.GenerateResource.cache
+C:\Documents\Project\colorpicker\obj\Debug\DesktopColorPicker.csproj.CoreCompileInputs.cache
+C:\Documents\Project\colorpicker\obj\Debug\DesktopColorPicker.exe
+C:\Documents\Project\colorpicker\obj\Debug\DesktopColorPicker.pdb
+C:\Documents\Project\colorpicker\bin\Debug\MetroFramework.Design.dll
+C:\Documents\Project\colorpicker\bin\Debug\MetroFramework.dll
+C:\Documents\Project\colorpicker\bin\Debug\MetroFramework.Fonts.dll
+C:\Documents\Project\colorpicker\obj\Debug\DesktopColorPicker.csproj.CopyComplete
